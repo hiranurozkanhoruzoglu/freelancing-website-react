@@ -1,0 +1,66 @@
+.header {
+    background-color: #F2FAFA;
+    padding-top: 51px;
+    padding-bottom: 172px;
+}
+
+.navbar {
+    display: flex;
+    background-color: #FFFFFF;
+    height: 82px;
+    flex-direction: row;
+    padding: 15px 25px 15px 25px;
+    box-sizing: border-box;
+    border-radius: 50px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    justify-content: space-between;
+}
+
+.navbar ul {
+    align-items: center;
+    display: flex;
+}
+
+.navbar li {
+    display: inline-block;
+    margin-right: 35px;
+    line-height: 30px;
+}
+
+.navbar li:last-child {
+    margin-right: 0;
+}
+
+.navbar ul img {
+    width: 238px;
+    height: 52px;
+    margin-top: 15px;
+    margin-left: 20px;
+    line-height: 30px;
+}
+
+
+.navbar ul li a {
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    color: #252525;
+    font-weight: 400;
+}
+
+.navbar ul li a.active {
+    color: #1E88E5;
+}
+
+.navbar button {
+    width: 225px;
+    height: 52px;
+    padding: 11px 43px;
+    background-color: #1E88E5;
+    color: #FFFFFF;
+    border-radius: 50px;
+    border: 0;
+    font-weight: 600;
+    font-size: 20px;
+    cursor: pointer;
+}

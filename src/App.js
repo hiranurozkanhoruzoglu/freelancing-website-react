@@ -1,11 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
+import FirstLook from './components/first-look';
+import Navbar from './components/navbar';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Merhaba Hiranur</h1>
-      <h2>Bu benim websitem</h2>
+    <div>
+      <div className="header">
+        <Navbar title="Merhaba" />
+        <FirstLook />
+      </div>
+    
     </div>
   );
 }
