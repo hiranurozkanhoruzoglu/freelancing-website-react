@@ -1,7 +1,10 @@
-import './App.css';
-import Cards from './components/cards';
-import FirstLook from './components/first-look';
-import Navbar from './components/navbar';
+import "./App.css";
+import Cards from "./components/cards";
+import Designs from "./components/designs";
+import FirstLook from "./components/first-look";
+import Freelancers from "./components/freelancer";
+import Navbar from "./components/navbar";
+import WorkCarousel from "./components/works-carousel";
 
 function App() {
   return (
@@ -10,8 +13,12 @@ function App() {
         <Navbar title="Merhaba" />
         <FirstLook />
       </div>
-
-      <Cards />      
+      <Cards />
+      <Freelancers />
+      <div className="container" id="design">
+        <WorkCarousel />
+        <Designs />
+      </div>
     </div>
   );
 }

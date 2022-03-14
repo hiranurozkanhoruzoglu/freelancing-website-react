@@ -17,13 +17,13 @@ const customStyles = {
   Modal.setAppElement('#root');
 
 function Navbar(props) {
-    let subtitle;
+    // let subtitle;
     const [modalIsOpen, setIsOpen] = useState(false);
-  
+
     function openModal() {
       setIsOpen(true);
     }
-  
+
     function closeModal() {
       setIsOpen(false);
     }
@@ -46,14 +46,15 @@ function Navbar(props) {
                 style={customStyles}
                 contentLabel="Example Modal"
             >
-                <h2>Submit a form</h2>
-                <form>
+                <h2 className='submit-text'>Submit a form</h2>
+                <form className='form'>
                     <input placeholder='Name' />
-                    <button>tab navigation</button>
-                    <button>stays</button>
-                    <button>inside</button>
-                    <button>the modal</button>
-                    <button onClick={closeModal}>Submit</button>
+                    <input placeholder='Surname' />
+                    <input type="email" placeholder='E-mail' name="" id="" />
+                    <textarea name="Message" placeholder='Message' id="" cols="30" rows="10"></textarea>
+
+
+                    <button className='submit' onClick={closeModal}>Submit</button>
                 </form>
             </Modal>
         </nav>
@@ -61,3 +62,74 @@ function Navbar(props) {
 }
 
 export default Navbar;
+
+// import React, { useState } from "react";
+// import { Modal, ModalHeader, ModalBody, ModalFooter } from "reactstrap";
+// import Button from "./Button";
+// import logo from "../images/logo.png";
+
+// const Navbar = (props) => {
+//   const {
+//     title,
+//     actionButtonText,
+//     cancelButtonText,
+//     children,
+//     className,
+//   } = props;
+
+//   const [modal, setModal] = useState(false);
+
+//   const toggle = () => setModal(!modal);
+//   const alertshow = () => {
+//     alert("button clicked");
+//   };
+
+//   const closeBtn = (
+//     <button className="close" onClick={toggle}>
+//       &times;
+//     </button>
+//   );
+
+//   return (
+//     <div>
+//       <nav className="container navbar">
+//         <img src={logo} alt="spacelance" />
+//         <ul>
+//           <li><a className="active" href="/">Home</a></li>
+//           <li><a href="/find-work">Find work</a></li>
+//           <li><a href="/find-freelancers">Find Freelancers</a></li>
+//           <li><a href="/log-in">Log In</a></li>
+//           <li><a href="/sign-up">Sign Up</a></li>
+//         </ul>
+//         <button onClick={setModal}>Post a project</button>
+
+//         <form onSubmit={alertshow}>
+//           <Modal isOpen={modal} toggle={toggle} className={className}>
+//             <ModalHeader className=" border-0" toggle={toggle} close={closeBtn}>
+//               {title}
+//             </ModalHeader>
+//             <ModalBody className="text-left border-0">
+//               <p className="modal-label">Please enter your email address</p>
+//               {children}
+//             </ModalBody>
+//             <ModalFooter className="modal-footer border-0">
+//               <Button className="btn_secondary modal-btn" onClick={toggle}>
+//                 {cancelButtonText}
+//               </Button>{" "}
+//               &nbsp;&nbsp;
+//               <input
+//                 className="btn btn_primary modal-btn"
+//                 type="submit"
+//                 value={actionButtonText}
+//               />
+//             </ModalFooter>
+//           </Modal>
+//         </form>
+//       </nav>
+//     </div>
+//   );
+// };
+
+// export default Navbar;
+
+

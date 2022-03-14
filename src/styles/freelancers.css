@@ -1,0 +1,74 @@
+.cards {
+    display: flex;
+    flex-direction: row;
+    border-radius: 10px;
+}
+
+.cards .card {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-basis: 0;
+    justify-content: center;
+    align-items: center;
+    padding: 0 77px;
+}
+
+.cards .card h3 {
+    font-size: 30px;
+    color: #252525;
+    line-height: 45px;
+}
+
+.cards .card p {
+    font-size: 24px;
+    color: #9D9D9D;
+    line-height: 36px;
+    text-align: center;
+}
+
+.cards .card img {
+
+    margin-bottom: 15px;
+}
+
+/*------TEXT-EPISODE  */
+
+#text-episode {
+    margin-top: 176px;
+    display: flex;
+    flex-direction: row;
+
+}
+
+#text-episode .text-img {
+    width: 50%;
+}
+
+#text-episode .text-pragraf {
+    width: 50%;
+    margin-left: 85px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: right;
+
+
+}
+
+#text-episode .text-pragraf h3 {
+    color: #252525;
+    font-size: 56px;
+    line-height: 84px;
+}
+
+#text-episode .text-pragraf h3 span.active {
+    color: #1E88E5;
+}
+
+#text-episode .text-pragraf p {
+    margin-top: 20px;
+    font-size: 24px;
+    line-height: 36px;
+    color: #9D9D9D;
+}
