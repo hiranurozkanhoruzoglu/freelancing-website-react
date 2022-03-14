@@ -1,14 +1,17 @@
 {
   "files": {
-    "main.css": "/freelancing-website-react/static/css/main.d9045963.css",
-    "main.js": "/freelancing-website-react/static/js/main.b4b6ec6b.js",
+    "main.css": "/freelancing-website-react/static/css/main.f917c874.css",
+    "main.js": "/freelancing-website-react/static/js/main.307abd09.js",
+    "static/media/freelancers.png": "/freelancing-website-react/static/media/freelancers.5cc3488bc03671d8217d.png",
+    "static/media/webes.png": "/freelancing-website-react/static/media/webes.8408b96bf9f528b0e269.png",
     "static/media/banner-home-page.png": "/freelancing-website-react/static/media/banner-home-page.e6ad97dc9179c5cbf43d.png",
+    "static/media/graphic.png": "/freelancing-website-react/static/media/graphic.3bad1cef34d9df64639a.png",
     "index.html": "/freelancing-website-react/index.html",
-    "main.d9045963.css.map": "/freelancing-website-react/static/css/main.d9045963.css.map",
-    "main.b4b6ec6b.js.map": "/freelancing-website-react/static/js/main.b4b6ec6b.js.map"
+    "main.f917c874.css.map": "/freelancing-website-react/static/css/main.f917c874.css.map",
+    "main.307abd09.js.map": "/freelancing-website-react/static/js/main.307abd09.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9045963.css",
-    "static/js/main.b4b6ec6b.js"
+    "static/css/main.f917c874.css",
+    "static/js/main.307abd09.js"
   ]
 }
