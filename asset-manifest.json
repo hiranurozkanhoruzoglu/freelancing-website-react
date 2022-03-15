@@ -1,17 +1,25 @@
 {
   "files": {
-    "main.css": "/freelancing-website-react/static/css/main.f917c874.css",
-    "main.js": "/freelancing-website-react/static/js/main.307abd09.js",
+    "main.css": "/freelancing-website-react/static/css/main.a42cf3a7.css",
+    "main.js": "/freelancing-website-react/static/js/main.fbc62dd6.js",
     "static/media/freelancers.png": "/freelancing-website-react/static/media/freelancers.5cc3488bc03671d8217d.png",
+    "static/media/cartoon-animation.png": "/freelancing-website-react/static/media/cartoon-animation.973964b4deac0f08b38f.png",
     "static/media/webes.png": "/freelancing-website-react/static/media/webes.8408b96bf9f528b0e269.png",
+    "static/media/article-writing.png": "/freelancing-website-react/static/media/article-writing.d7dc6e91ca6b78737cc2.png",
     "static/media/banner-home-page.png": "/freelancing-website-react/static/media/banner-home-page.e6ad97dc9179c5cbf43d.png",
+    "static/media/graphic-design.png": "/freelancing-website-react/static/media/graphic-design.e3d794d5e83adab89470.png",
+    "static/media/social-graphics.png": "/freelancing-website-react/static/media/social-graphics.84a0bd6d9f3e6c7fee0b.png",
+    "static/media/logo-design.png": "/freelancing-website-react/static/media/logo-design.2da0351339341c3a17ba.png",
+    "static/media/flyers-vouchers.png": "/freelancing-website-react/static/media/flyers-vouchers.e945d3305fd30d0ad494.png",
+    "static/media/illustration.png": "/freelancing-website-react/static/media/illustration.0972d2abedcaf421c322.png",
+    "static/media/video-editing.png": "/freelancing-website-react/static/media/video-editing.d21549d9600d6738d644.png",
     "static/media/graphic.png": "/freelancing-website-react/static/media/graphic.3bad1cef34d9df64639a.png",
     "index.html": "/freelancing-website-react/index.html",
-    "main.f917c874.css.map": "/freelancing-website-react/static/css/main.f917c874.css.map",
-    "main.307abd09.js.map": "/freelancing-website-react/static/js/main.307abd09.js.map"
+    "main.a42cf3a7.css.map": "/freelancing-website-react/static/css/main.a42cf3a7.css.map",
+    "main.fbc62dd6.js.map": "/freelancing-website-react/static/js/main.fbc62dd6.js.map"
   },
   "entrypoints": [
-    "static/css/main.f917c874.css",
-    "static/js/main.307abd09.js"
+    "static/css/main.a42cf3a7.css",
+    "static/js/main.fbc62dd6.js"
   ]
 }
