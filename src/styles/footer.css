@@ -1,0 +1,58 @@
+.footer {
+    display: flex;
+    margin-top: 133px;
+    
+}
+.footer h4{
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+
+.footer .spacelange {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    width: 25%;
+    color: #252525;
+    margin-right: 131px;
+}
+.footer .spacelange .communication img{
+    margin-right: 27px;
+    margin-top: 20px;
+}
+.footer .clients {
+    width: 25%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    color: #252525;
+    margin-right: 131px;
+}
+
+.footer .freelancers {
+
+    width: 25%;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    color: #252525;
+    margin-right: 130px;
+}
+
+.footer .call {
+
+    width: 25%;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 27px;
+    color: #252525;
+}
+.footer .call li{
+    margin-bottom: 15px;
+    
+}
