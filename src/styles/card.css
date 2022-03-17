@@ -2,11 +2,10 @@
     display: flex;
     flex-direction: row;
     border-radius: 10px;
-    background: #FFFFFF;
     box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.05);
     padding: 40px 10px;
+    
 }
-
 .cards .card {
     display: flex;
     flex-direction: column;
@@ -14,21 +13,19 @@
     flex-basis: 0;
     justify-content: center;
     align-items: center;
+    padding: 0 77px; 
 }
-
 .cards .card h3 {
     font-size: 30px;
     color: #252525;
     line-height: 45px;
 }
-
 .cards .card p {
     font-size: 24px;
     color: #9D9D9D;
     line-height: 36px;
     text-align: center;
 }
-
 .cards .card img {
 
     margin-bottom: 15px;

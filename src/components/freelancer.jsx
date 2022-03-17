@@ -8,7 +8,7 @@ function Freelancers(props) {
             <img src={freelancers} alt="freelancers"/>
         </div>
         <div className="text-pragraf">
-            <h3>Find The Best <span class="active">Freelancers</span> Here</h3>
+            <h3>Find The Best <span className="active">Freelancers</span> Here</h3>
             <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut erat bibendum ornare urna, cursus eget
                 convallis. Feugiat imperdiet posuere justo, ultrices interdum sed orci nunc, mattis. Ipsum viverra

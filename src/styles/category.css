@@ -45,6 +45,7 @@
 
 .category .categories h3 span.active {
     color: #1E88E5;
+    padding-left: 15px;
 }
 
 .category .categories .more-btn {

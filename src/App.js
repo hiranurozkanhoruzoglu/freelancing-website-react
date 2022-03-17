@@ -1,15 +1,14 @@
 import "./App.css";
 import Cards from "./components/cards";
-import Category from "./components/category";
+import Categorys from "./components/categorys";
 import Designs from "./components/designs";
 import FirstLook from "./components/first-look";
 import Footer from "./components/footer";
 import Freelancers from "./components/freelancer";
 import Navbar from "./components/navbar";
-import Portfolios from "./components/portfolios";
 import Subcription from "./components/subsciption";
-import WorkCarousel from "./components/works-carousel";
 import Reserved from "./components/reserved"
+import PortfolioSection from "./components/portfolio-section";
 
 function App() {
   return (
@@ -21,10 +20,9 @@ function App() {
       <Cards />
       <Freelancers />
       <div className="container" id="design">
-        <WorkCarousel />
         <Designs />
-        <Category/>
-        <Portfolios/>
+        <Categorys/>
+        <PortfolioSection />
         <Subcription/>
         <Footer/>
         <Reserved />

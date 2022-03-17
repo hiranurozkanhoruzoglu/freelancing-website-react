@@ -71,6 +71,7 @@ h2{
     color: #1E88E5;
     margin-bottom: 10px;
     text-align: center;
+    padding-bottom: 15px;
 }
 .form{
     display: flex;
@@ -85,7 +86,9 @@ h2{
     
     margin-bottom: 10px;
     font-size: 16px;
-    border: 1px solid #1E88E5;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #d4d4d4;
 }
 .submit{
     background-color: #1E88E5;
@@ -93,4 +96,5 @@ h2{
     border-radius: 5px;
     color: #FFFFFF;
     border: 0;
+    padding: 10px;
 }
