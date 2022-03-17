@@ -1,25 +1,31 @@
 {
   "files": {
-    "main.css": "/freelancing-website-react/static/css/main.a42cf3a7.css",
-    "main.js": "/freelancing-website-react/static/js/main.fbc62dd6.js",
+    "main.css": "/freelancing-website-react/static/css/main.e39229fb.css",
+    "main.js": "/freelancing-website-react/static/js/main.ba15756c.js",
+    "static/media/Design-4.png": "/freelancing-website-react/static/media/Design-4.ef68a831e019b96c4f05.png",
+    "static/media/Design-6.png": "/freelancing-website-react/static/media/Design-6.ffa5bf24e8289dd10e82.png",
+    "static/media/Design-1.png": "/freelancing-website-react/static/media/Design-1.945e9845ea728f7f21ae.png",
+    "static/media/designLogo-6.png": "/freelancing-website-react/static/media/designLogo-6.ee79880c7394d8828bb9.png",
     "static/media/freelancers.png": "/freelancing-website-react/static/media/freelancers.5cc3488bc03671d8217d.png",
-    "static/media/cartoon-animation.png": "/freelancing-website-react/static/media/cartoon-animation.973964b4deac0f08b38f.png",
+    "static/media/Design-5.png": "/freelancing-website-react/static/media/Design-5.c94f9a951a1a0b6ab6ec.png",
+    "static/media/unsplash_505eectW54k.png": "/freelancing-website-react/static/media/unsplash_505eectW54k.6e71ec420e187db471db.png",
+    "static/media/Design-2.png": "/freelancing-website-react/static/media/Design-2.166cff228ddce664cb79.png",
     "static/media/webes.png": "/freelancing-website-react/static/media/webes.8408b96bf9f528b0e269.png",
-    "static/media/article-writing.png": "/freelancing-website-react/static/media/article-writing.d7dc6e91ca6b78737cc2.png",
+    "static/media/Design-8.png": "/freelancing-website-react/static/media/Design-8.19d0c974998e37195bc1.png",
     "static/media/banner-home-page.png": "/freelancing-website-react/static/media/banner-home-page.e6ad97dc9179c5cbf43d.png",
-    "static/media/graphic-design.png": "/freelancing-website-react/static/media/graphic-design.e3d794d5e83adab89470.png",
-    "static/media/social-graphics.png": "/freelancing-website-react/static/media/social-graphics.84a0bd6d9f3e6c7fee0b.png",
-    "static/media/logo-design.png": "/freelancing-website-react/static/media/logo-design.2da0351339341c3a17ba.png",
-    "static/media/flyers-vouchers.png": "/freelancing-website-react/static/media/flyers-vouchers.e945d3305fd30d0ad494.png",
-    "static/media/illustration.png": "/freelancing-website-react/static/media/illustration.0972d2abedcaf421c322.png",
-    "static/media/video-editing.png": "/freelancing-website-react/static/media/video-editing.d21549d9600d6738d644.png",
-    "static/media/graphic.png": "/freelancing-website-react/static/media/graphic.3bad1cef34d9df64639a.png",
+    "static/media/Design-3.png": "/freelancing-website-react/static/media/Design-3.105b60b8e64a3ff2755d.png",
+    "static/media/designLogo5.png": "/freelancing-website-react/static/media/designLogo5.b961f911dc53739f61c2.png",
+    "static/media/Design-7.png": "/freelancing-website-react/static/media/Design-7.980d2f2f520ce3c80e5a.png",
+    "static/media/slick.svg": "/freelancing-website-react/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/freelancing-website-react/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/freelancing-website-react/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/freelancing-website-react/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/freelancing-website-react/index.html",
-    "main.a42cf3a7.css.map": "/freelancing-website-react/static/css/main.a42cf3a7.css.map",
-    "main.fbc62dd6.js.map": "/freelancing-website-react/static/js/main.fbc62dd6.js.map"
+    "main.e39229fb.css.map": "/freelancing-website-react/static/css/main.e39229fb.css.map",
+    "main.ba15756c.js.map": "/freelancing-website-react/static/js/main.ba15756c.js.map"
   },
   "entrypoints": [
-    "static/css/main.a42cf3a7.css",
-    "static/js/main.fbc62dd6.js"
+    "static/css/main.e39229fb.css",
+    "static/js/main.ba15756c.js"
   ]
 }
