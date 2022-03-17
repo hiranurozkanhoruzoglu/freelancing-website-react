@@ -34,6 +34,9 @@
 
 .average img {
     filter: brightness(0.5);
+    width: 290px;
+    height: 241px;
+    border-radius: 15px;
 }
 
 .category .categories .top .average h4 {

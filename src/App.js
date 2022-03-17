@@ -21,7 +21,7 @@ function App() {
       <Freelancers />
       <div className="container" id="design">
         <Designs />
-        <Categorys/>
+        <Categorys categoryName="Category" />
         <PortfolioSection />
         <Subcription/>
         <Footer/>
