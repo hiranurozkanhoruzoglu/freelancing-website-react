@@ -26,6 +26,9 @@
     margin-right: 35px;
     line-height: 30px;
 }
+.navbar ul li a:hover{
+    color: #1E88E5;
+}
 
 .navbar li:last-child {
     margin-right: 0;

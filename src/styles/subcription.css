@@ -1,10 +1,12 @@
 .subcription {
-    background-color: #F2FAFA;
+    background: #F2FAFA;
+    width: auto;
     
 }
 
 .subcription .sub {
     margin-top: 168px;
+    
 }
 
 .subcription .title-sub {

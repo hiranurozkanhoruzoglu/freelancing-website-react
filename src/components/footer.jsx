@@ -11,7 +11,7 @@ function Footer(props) {
     return (
         <div className="container footer">
             <div className="spacelange">
-                <img width="315" height="65" src={footer1} alt="spacelange" />
+                <img className="spacelange-img" width="315" height="65" src={footer1} alt="spacelange" />
                 <p>
                     Powerful Freelance Marketplace System with ability to change the Users( Freelancers & Clients)
                 </p>

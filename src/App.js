@@ -21,12 +21,13 @@ function App() {
       <Freelancers />
       <div className="container" id="design">
         <Designs />
-        <Categorys categoryName="Category" />
-        <PortfolioSection />
-        <Subcription/>
-        <Footer/>
-        <Reserved />
       </div>
+      <Categorys categoryName="Category" />
+      <PortfolioSection />
+      <Subcription />
+      <Footer />
+      <Reserved />
+
     </div>
   );
 }

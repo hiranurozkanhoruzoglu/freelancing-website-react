@@ -62,8 +62,9 @@
 }
 
 .portfolios .cards-portfolio .card-portfolios img {
-    width: 383px;
+    width: 382px;
     height: 328px;
+    border-radius: 10px;
 }
 
 .portfolios .cards-portfolio .card-portfolios .dsn {

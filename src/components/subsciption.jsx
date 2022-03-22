@@ -38,7 +38,7 @@ function Subcription(props) {
         }
     }
     return (
-        <div className=" subcription">
+        <div className="subcription"> 
             <div className="container sub">
                 <div className="title-sub">
                     <h2>Newsletter Subscription</h2>
@@ -51,8 +51,5 @@ function Subcription(props) {
             </div>
         </div>
     )
-
-
 }
-
 export default Subcription;
