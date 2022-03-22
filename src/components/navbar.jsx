@@ -17,7 +17,6 @@ const customStyles = {
   Modal.setAppElement('#root');
 
 function Navbar(props) {
-    // let subtitle;
     const [modalIsOpen, setIsOpen] = useState(false);
 
     function openModal() {
@@ -52,8 +51,6 @@ function Navbar(props) {
                     <input placeholder='Surname' />
                     <input type="email" placeholder='E-mail' name="" id="" />
                     <textarea name="Message" placeholder='Message' id="" cols="30" rows="10"></textarea>
-
-
                     <button className='submit' onClick={closeModal}>Submit</button>
                 </form>
             </Modal>

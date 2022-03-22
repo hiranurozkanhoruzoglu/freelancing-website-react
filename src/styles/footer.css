@@ -17,9 +17,16 @@
     color: #252525;
     margin-right: 100px;
 }
+.footer .spacelange .communication button{
+    border: 0;
+    background:transparent;
+}
 .footer .spacelange .communication img{
     margin-right: 27px;
     margin-top: 20px;
+    height: 40px;
+    width: 40px;
+    
 }
 .footer .clients {
     width: 25%;
@@ -53,10 +60,12 @@
     color: #252525;
 }
 .footer .call li{
-    margin-bottom: 15px;
+    margin-bottom: 20px;
+    display: flex;
     
 }
 .footer .call li img{
     margin-right: 7px;
-    text-align: center;
+    width: 25px;
+    height: 25px;
 }
