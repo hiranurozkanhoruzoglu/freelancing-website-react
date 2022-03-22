@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/freelancing-website-react/static/css/main.e39229fb.css",
-    "main.js": "/freelancing-website-react/static/js/main.ba15756c.js",
+    "main.css": "/freelancing-website-react/static/css/main.50efe8e7.css",
+    "main.js": "/freelancing-website-react/static/js/main.2340ac60.js",
     "static/media/Design-4.png": "/freelancing-website-react/static/media/Design-4.ef68a831e019b96c4f05.png",
     "static/media/Design-6.png": "/freelancing-website-react/static/media/Design-6.ffa5bf24e8289dd10e82.png",
     "static/media/Design-1.png": "/freelancing-website-react/static/media/Design-1.945e9845ea728f7f21ae.png",
@@ -15,17 +15,23 @@
     "static/media/banner-home-page.png": "/freelancing-website-react/static/media/banner-home-page.e6ad97dc9179c5cbf43d.png",
     "static/media/Design-3.png": "/freelancing-website-react/static/media/Design-3.105b60b8e64a3ff2755d.png",
     "static/media/designLogo5.png": "/freelancing-website-react/static/media/designLogo5.b961f911dc53739f61c2.png",
+    "static/media/instagram.png": "/freelancing-website-react/static/media/instagram.79535458a8a6d88f81d4.png",
+    "static/media/phone-call.png": "/freelancing-website-react/static/media/phone-call.e7db31039cbc0dc30592.png",
+    "static/media/email.png": "/freelancing-website-react/static/media/email.02241af9c07d4a85c21a.png",
+    "static/media/placeholder.png": "/freelancing-website-react/static/media/placeholder.64cdcb0ef97818161310.png",
+    "static/media/twitter.png": "/freelancing-website-react/static/media/twitter.28b4dce41e4e33858919.png",
     "static/media/Design-7.png": "/freelancing-website-react/static/media/Design-7.980d2f2f520ce3c80e5a.png",
+    "static/media/facebook.png": "/freelancing-website-react/static/media/facebook.4f037d961598aff2a0a4.png",
     "static/media/slick.svg": "/freelancing-website-react/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/freelancing-website-react/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/freelancing-website-react/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/freelancing-website-react/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/freelancing-website-react/index.html",
-    "main.e39229fb.css.map": "/freelancing-website-react/static/css/main.e39229fb.css.map",
-    "main.ba15756c.js.map": "/freelancing-website-react/static/js/main.ba15756c.js.map"
+    "main.50efe8e7.css.map": "/freelancing-website-react/static/css/main.50efe8e7.css.map",
+    "main.2340ac60.js.map": "/freelancing-website-react/static/js/main.2340ac60.js.map"
   },
   "entrypoints": [
-    "static/css/main.e39229fb.css",
-    "static/js/main.ba15756c.js"
+    "static/css/main.50efe8e7.css",
+    "static/js/main.2340ac60.js"
   ]
 }
